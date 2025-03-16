@@ -29,7 +29,6 @@
 <body>
     <h1>Selamun Aleykum le Boss</h1>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Drapeau de la Turquie" class="flag">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Gray_Wolf_in_Yellowstone.jpg" alt="Photo d'un loup" class="wolf">
 
     <p class="link"><a href="#message">Aller au message</a></p>
 
