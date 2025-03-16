@@ -15,11 +15,6 @@
             height: 30px;
             vertical-align: middle;
         }
-        .wolf {
-            width: 200px;
-            height: auto;
-            margin-top: 20px;
-        }
         .link {
             margin-top: 20px;
             font-size: 1.2em;
